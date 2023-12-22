@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kanigasri-K
+- 👋🏻 Hi, I’m Kanigasri-K
 - 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on what specifically do you need help with front-end development? Whether it's HTML,CSS,JS,frameworks,or anything else,I'm here to assist!!
+- 🌟 I’m looking to collaborate on what specifically do you need help with front-end development? Whether it's HTML,CSS,JS,frameworks,or anything else,I'm here to assist!!
 - 📫 How to reach me kanigasrik14@gmail.com
 
 <!---
